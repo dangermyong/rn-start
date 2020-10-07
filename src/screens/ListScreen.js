@@ -11,7 +11,7 @@ const ListScreen = () => {
     { name: 'Friend #6', age:'27' },
     { name: 'Friend #7', age:'28' },
     { name: 'Friend #8', age:'21' },
-    { name: 'Friend #9', age:'23' },
+    { name: 'Friend #10', age:'23' },
   ]
 
   return (
